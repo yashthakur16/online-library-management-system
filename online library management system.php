@@ -1298,7 +1298,7 @@ return true;
 40
 </head>
 <body>
-<!------MENU SECTION START-->
+<!------MENU SECTION START----->
 <?php include('includes/header.php');?>
 <!-- MENU SECTION END-->
 <div class="content-wrapper">
